@@ -5,7 +5,13 @@ import lombok.Data;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.List;
-
+/**
+ * The class that represents entity
+ * in an API for basic operations
+ * with the application
+ *
+ * @author Nadezhda Penkrat
+ */
 @Data
 public class Certificate {
 

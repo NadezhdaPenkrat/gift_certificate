@@ -1,8 +1,11 @@
 package com.epam.esm.entity;
-
-import lombok.Data;
-
-
+/**
+ * The class that represents entity
+ * in an API for basic operations
+ * with the application
+ *
+ * @author Nadezhda Penkrat
+ */
 public class Tag {
 
     private Long id;
