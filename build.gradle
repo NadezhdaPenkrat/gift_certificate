@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.nadezhdapenkrat.epam'
+group 'by.narkevich.epam'
 version '1.0-SNAPSHOT'
 
 subprojects {
